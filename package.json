@@ -1,0 +1,14 @@
+{
+  "name": "sample-node-app",
+  "version": "1.0.0",
+  "description": "Sample Node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
